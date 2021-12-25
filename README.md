@@ -1,5 +1,5 @@
 -  Hi, I’m AbdulMuiz Shaikh
--  AI,ML Enthusiast
+-  Data Science Enthusiast
 -  Also interested in Web Devlopment,Cloud,Android App Devlopment,and a little bit in Cyber Security 
 -  I’m looking to collaborate on python projects.
 -  abdulmuiz313@gmail.com
