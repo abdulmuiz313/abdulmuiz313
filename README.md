@@ -1,7 +1,7 @@
 -  Hi, I’m AbdulMuiz Shaikh
 -  Data Science Enthusiast
 -  Also interested in Web Devlopment,Cloud,Android App Devlopment,and a little bit in Cyber Security 
--  I’m looking to collaborate on python projects.
+-  I’m looking to collaborate on python,web-development projects.
 -  abdulmuiz313@gmail.com
 
 <!---
