@@ -1,8 +1,6 @@
 -  Hi, I’m AbdulMuiz Shaikh
--  Current Interest Salesforce
 -  Data Science Enthusiast
--  Also interested in Web Devlopment,Cloud,Android App Devlopment,and a little bit in Cyber Security 
--  I’m looking to collaborate on python,web-development projects.
+-  I’m looking to collaborate on AI projects.
 -  abdulmuiz313@gmail.com
 
 <!---
